@@ -1,7 +1,7 @@
-## About_Project 
+## About Project 
 I'm Creating project for solidity Aka Metacrafters in which I've used solidity language to create a token .
 
-# About_The_code
+# About The code
 I have created my own token named "car" abbreviated as "bike". There is the record of its total supply. And if someone mints some "car" tokens then it will be added to the total supply of it. Also same goes to burn token it will subtract it.
 
 ## Remix Ide Compiler 
